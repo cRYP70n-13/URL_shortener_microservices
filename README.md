@@ -1,5 +1,4 @@
 # URL shortener - intro to microservices
-You can read complete article on my [Medium page](https://ivanostojic.medium.com/microservices-for-beginners-developing-simple-url-shortener-2e6fab5c473e)
 
 Used technologies: 
 - Node.js
